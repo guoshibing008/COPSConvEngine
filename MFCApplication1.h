@@ -21,6 +21,11 @@ public:
 	CMFCApplication1App();
 
 // ÖØÐ´
+
+
+
+fdsjfl
+
 public:
 	virtual BOOL InitInstance();
 
