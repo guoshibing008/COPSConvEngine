@@ -13,6 +13,8 @@
 
 // CMFCApplication1App
 
+
+
 BEGIN_MESSAGE_MAP(CMFCApplication1App, CWinApp)
 	ON_COMMAND(ID_HELP, &CWinApp::OnHelp)
 END_MESSAGE_MAP()
